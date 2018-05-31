@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is Hello World! feature2 application" );
+        System.out.println( "Merge feature2 branch to integration" );
     }
 }
